@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.MobileAddressBook",
+			"com.apple.camera",
+			"com.apple.springboard",
+		);
+	};
+}
